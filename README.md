@@ -77,7 +77,7 @@ Accede a `http://localhost:8000` desde el navegador.
 
 | Sección | Contenido |
 | --- | --- |
-| Inicio | Presentación personal y accesos a proyectos y contacto. |
+| Inicio | Presentación, accesos a proyectos y contacto. |
 | Sobre mí | Perfil profesional e indicadores de habilidades. |
 | Proyectos | Tarjetas del portafolio, aplicación de tareas y landing page de producto. |
 | Contacto | Formulario y espacios para datos de contacto y redes profesionales. |
@@ -102,11 +102,11 @@ Una vez publicado correctamente, la URL prevista es:
 
 https://jesusarcis.github.io/jesus/
 
-## Estado y mejoras pendientes
+## WIP
 
 - [x] Estructura y diseño del portafolio.
 - [x] Navegación móvil y animaciones.
-- [x] Indicadores de habilidades y tarjetas de proyectos.
+- [ ] habilidades y proyectos.
 - [x] Formulario de contacto con simulación de envío.
 - [ ] Integrar un servicio real de envío de mensajes, como Formspree o EmailJS.
 - [ ] Sustituir los enlaces de ejemplo por enlaces reales a proyectos y perfiles.
