@@ -6,13 +6,13 @@
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-6366F1?style=for-the-badge)
 
 ## Descripción
-
+APLICAMOS DESCRIPCION
 Portafolio web personal orientado a presentar mi perfil como desarrollador web, mis habilidades técnicas y mis proyectos. Cuenta con una interfaz de temática oscura, diseño adaptable y elementos interactivos desarrollados con tecnologías web nativas.
 
 El proyecto no requiere frameworks, gestor de paquetes, base de datos ni proceso de compilación.
 
 ## Características
-
+APLICAMOS CARACTERISTICA
 - Diseño responsive para ordenadores, tabletas y dispositivos móviles.
 - Menú de navegación adaptable y desplazamiento suave entre secciones.
 - Presentación personal con texto rotatorio animado y fotografía de perfil.
@@ -22,7 +22,7 @@ El proyecto no requiere frameworks, gestor de paquetes, base de datos ni proceso
 - Botón para volver al inicio y actualización automática del año en el pie de página.
 
 ## Tecnologías utilizadas
-
+APLICAMOS TECNOLOGIA
 | Tecnología | Finalidad |
 | --- | --- |
 | HTML5 | Estructura semántica y contenido. |
